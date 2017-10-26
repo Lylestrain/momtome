@@ -1,0 +1,15 @@
+/* Reset Rule */
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}    
+body {
+	background: coral;
+	padding: 10px;
+}
+
+header {
+	height: 175px;
+	background-color: teal;
+}
